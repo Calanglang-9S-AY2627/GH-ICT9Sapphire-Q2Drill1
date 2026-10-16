@@ -1,0 +1,11 @@
+body{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqIT9lAPa5-be1Zwh-1zy18m88_a6J7L9wpynkWPxj9A&s=10);
+}
+
+div{
+    border-radius: 10%;
+}
+
+.row{
+    gap: 10px;
+}
